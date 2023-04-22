@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-ghpages/static/css/main.11ba86c8.css",
-    "main.js": "/portfolio-ghpages/static/js/main.a31cfaf7.js",
+    "main.css": "/portfolio-ghpages/static/css/main.563e5d50.css",
+    "main.js": "/portfolio-ghpages/static/js/main.3f665605.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-ghpages/static/js/787.1ed0c42c.chunk.js",
     "static/media/hat-tip-hats-off.gif": "/portfolio-ghpages/static/media/hat-tip-hats-off.f3377578f76c9c203b33.gif",
     "static/media/hitman2.jpeg": "/portfolio-ghpages/static/media/hitman2.c65e58f61621861f3d80.jpeg",
@@ -11,17 +11,17 @@
     "static/media/enstock-site.jpeg": "/portfolio-ghpages/static/media/enstock-site.b066b3443821f9485a4f.jpeg",
     "static/media/pygame.jpeg": "/portfolio-ghpages/static/media/pygame.98e77ed67ae4e07e123a.jpeg",
     "static/media/tweepyapi.jpeg": "/portfolio-ghpages/static/media/tweepyapi.56804913db5a9e51fa59.jpeg",
+    "static/media/EvaniaTorres_resume.pdf": "/portfolio-ghpages/static/media/EvaniaTorres_resume.dbd04a2b225f9870fb9d.pdf",
     "static/media/peacechain-done copy.png": "/portfolio-ghpages/static/media/peacechain-done copy.f51f68cdd925193476f0.png",
     "static/media/HPlogoNEW2.png": "/portfolio-ghpages/static/media/HPlogoNEW2.89fbc1c53bd8338cbedd.png",
-    "static/media/testing.pdf": "/portfolio-ghpages/static/media/testing.aa4d96a2c66696db1218.pdf",
     "static/media/portlogo copy.png": "/portfolio-ghpages/static/media/portlogo copy.f302ee8a5c6a28d898f3.png",
     "index.html": "/portfolio-ghpages/index.html",
-    "main.11ba86c8.css.map": "/portfolio-ghpages/static/css/main.11ba86c8.css.map",
-    "main.a31cfaf7.js.map": "/portfolio-ghpages/static/js/main.a31cfaf7.js.map",
+    "main.563e5d50.css.map": "/portfolio-ghpages/static/css/main.563e5d50.css.map",
+    "main.3f665605.js.map": "/portfolio-ghpages/static/js/main.3f665605.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-ghpages/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11ba86c8.css",
-    "static/js/main.a31cfaf7.js"
+    "static/css/main.563e5d50.css",
+    "static/js/main.3f665605.js"
   ]
 }
