@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-ghpages/static/css/main.563e5d50.css",
-    "main.js": "/portfolio-ghpages/static/js/main.ded6ef00.js",
+    "main.css": "/portfolio-ghpages/static/css/main.b1c0800b.css",
+    "main.js": "/portfolio-ghpages/static/js/main.aa098ad8.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-ghpages/static/js/787.1ed0c42c.chunk.js",
     "static/media/hat-tip-hats-off.gif": "/portfolio-ghpages/static/media/hat-tip-hats-off.f3377578f76c9c203b33.gif",
     "static/media/hitman2.jpeg": "/portfolio-ghpages/static/media/hitman2.c65e58f61621861f3d80.jpeg",
-    "static/media/bornpinkt.jpeg": "/portfolio-ghpages/static/media/bornpinkt.6f77d0171fb3875742c2.jpeg",
     "static/media/hitman1.jpeg": "/portfolio-ghpages/static/media/hitman1.241787970f6d82abaf91.jpeg",
+    "static/media/newbornpink.jpeg": "/portfolio-ghpages/static/media/newbornpink.e4bc59080117833675f2.jpeg",
+    "static/media/newenstock.jpeg": "/portfolio-ghpages/static/media/newenstock.129d1df85a74acefdddd.jpeg",
     "static/media/mysql.jpeg": "/portfolio-ghpages/static/media/mysql.62035ed1edd791275d03.jpeg",
-    "static/media/enstock-site.jpeg": "/portfolio-ghpages/static/media/enstock-site.b066b3443821f9485a4f.jpeg",
+    "static/media/textportlogo.png": "/portfolio-ghpages/static/media/textportlogo.50515e22b9daff5465a0.png",
     "static/media/pygame.jpeg": "/portfolio-ghpages/static/media/pygame.98e77ed67ae4e07e123a.jpeg",
     "static/media/tweepyapi.jpeg": "/portfolio-ghpages/static/media/tweepyapi.56804913db5a9e51fa59.jpeg",
     "static/media/peacechain-done copy.png": "/portfolio-ghpages/static/media/peacechain-done copy.f51f68cdd925193476f0.png",
     "static/media/EvaniaTorres_resume2.pdf": "/portfolio-ghpages/static/media/EvaniaTorres_resume2.8e8168e0bb8870cd6c43.pdf",
     "static/media/HPlogoNEW2.png": "/portfolio-ghpages/static/media/HPlogoNEW2.89fbc1c53bd8338cbedd.png",
-    "static/media/portlogo copy.png": "/portfolio-ghpages/static/media/portlogo copy.f302ee8a5c6a28d898f3.png",
     "index.html": "/portfolio-ghpages/index.html",
-    "main.563e5d50.css.map": "/portfolio-ghpages/static/css/main.563e5d50.css.map",
-    "main.ded6ef00.js.map": "/portfolio-ghpages/static/js/main.ded6ef00.js.map",
+    "main.b1c0800b.css.map": "/portfolio-ghpages/static/css/main.b1c0800b.css.map",
+    "main.aa098ad8.js.map": "/portfolio-ghpages/static/js/main.aa098ad8.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-ghpages/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.563e5d50.css",
-    "static/js/main.ded6ef00.js"
+    "static/css/main.b1c0800b.css",
+    "static/js/main.aa098ad8.js"
   ]
 }

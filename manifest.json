@@ -3,17 +3,17 @@
   "name": "Evania's Portfolio",
   "icons": [
     {
-      "src": "portlogo copy.png",
+      "src": "textportlogo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "portlogo copy.png",
+      "src": "textportlogo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "512-logo.png",
+      "src": "512-logo copy2.png",
       "type": "image/png",
       "sizes": "512x512"
     }
